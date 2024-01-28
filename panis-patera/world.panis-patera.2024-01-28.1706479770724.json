@@ -1,0 +1,25 @@
+{
+  "title": "Panis Patera",
+  "id": "world.panis-patera.2024-01-28.1706479770724",
+  "system": "dnd5e",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "requires": [],
+    "systems": [],
+    "recommends": [],
+    "conflicts": [],
+    "flags": {}
+  },
+  "description": "",
+  "version": "0",
+  "size": 25974203,
+  "note": "",
+  "snapshotId": "snapshot.2024-01-28.1706479749390",
+  "originalSize": 47959288,
+  "createdAt": 1706479770724,
+  "packageId": "panis-patera",
+  "type": "world"
+}
